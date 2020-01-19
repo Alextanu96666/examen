@@ -1,0 +1,22 @@
+
+.column-container {
+    display: flex;
+    justify-content: space-between;
+    .columns {
+        width: 25%;
+        
+    }
+}
+
+.nav {
+    justify-content: center;
+}
+
+.logo {
+    justify-content: center;
+}
+
+.mini-cart {
+    justify-content: center;
+}
+
