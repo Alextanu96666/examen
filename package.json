@@ -9,7 +9,7 @@
   "author": "NWT",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-clean-css": "^3.10.0",
     "gulp-sass": "^3.2.1",
